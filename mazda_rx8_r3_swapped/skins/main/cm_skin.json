@@ -1,0 +1,30 @@
+{
+  "carPaint": {
+    "complex": true,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FFFFFFFF",
+    "flakes": 1.0,
+    "enabled": true
+  },
+  "leather": {
+    "enabled": true,
+    "colors": [
+      "#000000"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramHiragana": "め",
+    "paramPrefecture": "大阪",
+    "paramVehicle": "330",
+    "paramNumber": "3412"
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#000000"
+    ]
+  }
+}

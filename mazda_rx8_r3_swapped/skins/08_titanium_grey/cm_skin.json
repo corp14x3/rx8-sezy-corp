@@ -1,0 +1,28 @@
+{
+  "carPaint": {
+    "complex": false,
+    "reflection": 1.0,
+    "gloss": 1.0,
+    "specular": 1.0,
+    "color": "#FF545454",
+    "flakes": 0.233,
+    "enabled": true
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "licensePlate": {
+    "style": "Japan",
+    "paramVehicle": "330",
+    "paramNumber": "8121"
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#1E1E1E"
+    ]
+  }
+}
